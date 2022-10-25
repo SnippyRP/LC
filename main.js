@@ -1,3 +1,3 @@
 <script>
-  alert("Cross Site Stuff!");
+  console.log("E");
  </script>
